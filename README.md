@@ -1,5 +1,5 @@
 - 👋 Heyyyy, I'm Hien, a funny and lonely person hiuhiu...
-- 👀 I love watching film and listening music.
+- 👀 I love watching film and listening to music.
 - 🌱 I’m a freshman in UIT, i've learning to code for a few weeks.
 - 💞️ I've love to see you...Let's contact me via
 [my facebook](http://~https://www.facebook.com/phuquoc.le.54390/).
