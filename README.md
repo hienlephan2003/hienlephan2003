@@ -1,5 +1,5 @@
 - 💞️ I've love to see you...Let's contact me via
-[my facebook](http://~https://www.facebook.com/phuquoc.le.54390/).
+[my facebook](https://www.facebook.com/phuquoc.le.54390/).
 
 
 <!---
