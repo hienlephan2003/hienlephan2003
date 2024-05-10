@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hỉn</h1>
 <h3 align="center">I am a backend developer with a passion for developing high-quality products.</h3>
-- 🌱 I’m currently learning **Software Engineer at HCMUIT**
+- 🌱 I’m currently learning **Software Engineering at HCMUIT**
 
 - 👨‍💻 All of my projects are available at [https://hienlephan2003.github.io/hin-phan/](https://hienlephan2003.github.io/hin-phan/)
 
