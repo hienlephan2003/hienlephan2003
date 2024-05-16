@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hienlephan2003.github.io/hin-phan/](https://hienlephan2003.github.io/hin-phan/)
 
-- 💬 Ask me about **Spring Boot, Express, ROR**
+- 💬 Ask me about **Spring Boot, ASP.NET, Express, ROR**
 
 - 📫 How to reach me **hienlephan2003@gmail.com**
 
